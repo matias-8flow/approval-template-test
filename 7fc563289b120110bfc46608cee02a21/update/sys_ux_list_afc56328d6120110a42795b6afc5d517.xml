@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Document Approval Admin">abc523284312011085b088e1b4542bdc</category>
+        <columns>document.number,document.sys_created_on,document.submitter,document.name,document.approval_category,document.status</columns>
+        <condition table="x_791381_approva_0_document_approver">approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="approver" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <configuration display_value="Document Approval - Workspace - Admin">6bc5232843120110f998a912fbf23fdc</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>afc56328d6120110a42795b6afc5d517</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approvals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_ux_list_afc56328d6120110a42795b6afc5d517</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:58</sys_updated_on>
+        <table>x_791381_approva_0_document_approver</table>
+        <title>Document Approvals</title>
+    </sys_ux_list>
+</record_update>
