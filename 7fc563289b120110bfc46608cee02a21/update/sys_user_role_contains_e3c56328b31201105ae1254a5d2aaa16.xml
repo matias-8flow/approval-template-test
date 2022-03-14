@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="flow_designer" name="flow_designer">5a6498600b3122008e650851c5673aff</contains>
+        <role display_value="x_791381_approva_0.admin" name="x_791381_approva_0.admin">a3c563287812011059c448b2b101390a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:26</sys_created_on>
+        <sys_id>e3c56328b31201105ae1254a5d2aaa16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>flow_designer.</sys_name>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_user_role_contains_e3c56328b31201105ae1254a5d2aaa16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:26</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

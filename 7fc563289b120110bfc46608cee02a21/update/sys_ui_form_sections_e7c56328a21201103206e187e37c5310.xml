@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e7c56328a21201103206e187e37c5310" sys_domain="global" table="x_791381_approva_0_document_approver" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-14 22:05:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2bc5632897120110208da36239014210</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_791381_approva_0_document_approver" name="x_791381_approva_0_document_approver" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">e7c56328a21201103206e187e37c5310</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_791381_approva_0_document_approver" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">6bc563284d1201102441cf711901ca10</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-14 22:05:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_791381_approva_0_document_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-14 22:05:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7c56328a21201103206e187e37c5310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_791381_approva_0_document_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e7c56328a21201103206e187e37c5310</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-14 22:05:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">0ba0e22ea5340110c0a0e1db2cdc9511</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#81B5A1</color>
+        <display>background-color:#81B5A1</display>
+        <name>#81B5A1</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:44</sys_created_on>
+        <sys_id>23c52328b51201102413fe971f1c88e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>#81B5A1</sys_name>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_report_color_23c52328b51201102413fe971f1c88e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:44</sys_updated_on>
+    </sys_report_color>
+</record_update>

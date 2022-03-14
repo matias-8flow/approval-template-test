@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="approver_id" label="Approver Id" language="en" table="var__m_sys_hub_action_input_63c523282c1201101889b7641ec9aded">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approver_id</element>
+            <help/>
+            <hint/>
+            <label>Approver Id</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_63c523282c1201101889b7641ec9aded</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>e3c523288c120110c164df5fd4d727e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approver Id</sys_name>
+            <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9e44f857c7202010697d36d827c260d1_approver_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-14 22:05:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="approval-template-test Portal Config">23c56328e01201108077bca2a3488204</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Attachment">27c52328c112011084435945c6a581dd</macroponent>
+        <macroponent_config>{
+  "table" : "Document Approval",
+  "sysId" : "@context.props.sysId",
+  "label" : "",
+  "bare" : false,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Attachments default</name>
+        <order>0</order>
+        <parent_macroponent display_value="document_record_display">ebc56328821201108ebb0d5b3eb5931a</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Attachments">6bc563281e120110f9dbd140c58c2e1a</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6bc523280f1201109ff8ad886f7edbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_ux_screen_6bc523280f1201109ff8ad886f7edbdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:58</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=6bc523280f1201109ff8ad886f7edbdf"/>
+</record_update>

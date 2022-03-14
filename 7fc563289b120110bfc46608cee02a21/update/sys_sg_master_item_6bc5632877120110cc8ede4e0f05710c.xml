@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_791381_approva_0_document_approver</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Document Approval">e3c56328fd1201106a6181f9f768fe0b</embedded_screen>
+        <item_view/>
+        <name>Needs Attention Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:27</sys_created_on>
+        <sys_id>6bc5632877120110cc8ede4e0f05710c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needs Attention Main Item</sys_name>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_sg_master_item_6bc5632877120110cc8ede4e0f05710c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:27</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Document Approvals View Config">27c56328c3120110102763108d760f0b</view_config>
+    </sys_sg_master_item>
+</record_update>

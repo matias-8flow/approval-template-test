@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>New Document Aprpovals Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:42</sys_created_on>
+        <sys_id>e7c56328461201109662e8358785ad0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Document Aprpovals Icon</sys_name>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_sg_icon_e7c56328461201109662e8358785ad0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:42</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

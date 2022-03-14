@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_791381_approva_0.submitter" name="x_791381_approva_0.submitter">2bc5232826120110895216bf6ce027ee</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:26</sys_created_on>
+        <sys_id>23c5632896120110cce6f648e3b6e516</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.</sys_name>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_user_role_contains_23c5632896120110cce6f648e3b6e516</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:26</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

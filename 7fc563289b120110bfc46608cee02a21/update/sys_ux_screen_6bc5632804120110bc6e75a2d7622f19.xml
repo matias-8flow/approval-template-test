@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="approval-template-test Workspace Config">efc563280a1201103d91cc5281151e01</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckjbbeeffhhmtaaaaffoddghhwhziiqoddggj",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_791381_approva_0.CONTENT_UPDATED_RELAY_ebc563283912011092a393f4bc7eab16",
+  "sourceEventDefinition" : {
+    "apiName" : "x_791381_approva_0.CONTENT_UPDATED_RELAY_ebc563283912011092a393f4bc7eab16",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.CONTENT_UPDATED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          }
+        }
+      },
+      "sysId" : "75f3815fb0d9c38bb6df1626a0f284c4"
+    },
+    "operation" : null,
+    "targetId" : "ckjbbeeffhhmsaaaaffnddghhwgggoiysga",
+    "type" : "EVENT"
+  } ]
+}, {
+  "eventMappingId" : "ckinffhcliiaaaaaayddgiihheejjpqdcbb",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_791381_approva_0.NAV_ITEM_SELECTED_RELAY_ebc563283912011092a393f4bc7eab16",
+  "sourceEventDefinition" : {
+    "apiName" : "x_791381_approva_0.NAV_ITEM_SELECTED_RELAY_ebc563283912011092a393f4bc7eab16",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "route" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "route" ]
+            }
+          },
+          "fields" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fields" ]
+            }
+          },
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          },
+          "redirect" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "redirect" ]
+            }
+          },
+          "passiveNavigation" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "passiveNavigation" ]
+            }
+          },
+          "title" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "title" ]
+            }
+          },
+          "multiInstField" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "multiInstField" ]
+            }
+          },
+          "targetRoute" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "targetRoute" ]
+            }
+          },
+          "external" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "external" ]
+            }
+          }
+        }
+      },
+      "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
+    },
+    "operation" : null,
+    "targetId" : "ckinffhcliiaaaaaaxddgiihhmwqluezz",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="List Admin">ebc563283912011092a393f4bc7eab16</macroponent>
+        <macroponent_config>{
+  "query" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>List Admin</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="List">2fc5632835120110ce5239f5e582581b</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6bc5632804120110bc6e75a2d7622f19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List Admin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_ux_screen_6bc5632804120110bc6e75a2d7622f19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:46</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=6bc5632804120110bc6e75a2d7622f19"/>
+</record_update>

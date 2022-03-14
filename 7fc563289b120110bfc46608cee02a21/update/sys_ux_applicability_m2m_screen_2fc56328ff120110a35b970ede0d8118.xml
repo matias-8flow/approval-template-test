@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public - Document Approval">a7c5632806120110ebd9e7c80103bc17</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">ebc5632817120110f191a853b3d18818</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 22:05:41</sys_created_on>
+        <sys_id>2fc56328ff120110a35b970ede0d8118</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="approval-template-test" source="x_791381_approva_0">7fc563289b120110bfc46608cee02a21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="approval-template-test">7fc563289b120110bfc46608cee02a21</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_2fc56328ff120110a35b970ede0d8118</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 22:05:41</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>
